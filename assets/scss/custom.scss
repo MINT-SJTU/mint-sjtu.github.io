@@ -109,7 +109,14 @@ html, body {
 
 #section-recent-works {
   .card {
-    min-height: 480px;
+    min-height: 426px;
+  }
+  .card-body {
+
+  }
+  .card-text {
+    text-align: justify;
+    padding: 0;
   }
 }
 
