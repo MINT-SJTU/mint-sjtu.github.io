@@ -34,14 +34,18 @@ heroSlideBlock:
     slides:
       - title: 
         content: |
-           <img src="/uploads/group_slides/news1.png" style="height: 400px; width: auto; display: block; margin: 0 auto;" />
+           <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+             <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+           </div>
         align: center
         background:
           color: '#fff'
 
       - title: 
         content: |
-           <img src="/uploads/group_slides/news2.png" style="height: 400px; width: auto; display: block; margin: 0 auto;" />
+           <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+             <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+           </div>
         align: center
         background:
           color: '#fff'
