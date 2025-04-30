@@ -25,45 +25,40 @@ heroBlock:
 
 
 
+
 # 图片轮播  
 heroSlideBlock:
   block: slider
 
   content:
-
     slides:
+      - title: 
+        align: center
+        background:
+          image:
+            filename: group_slides/news1.png
+            filters:
+              brightness: 1
+            style: 'height: 400px; width: auto; object-fit: contain;'
+          position: right
+          color: '#666'  
 
-    # - title: 
-      #  content: desc1
-      align: center
-      background:
-        image:
-          filename: group_slides/news1.png
-          filters:
-            brightness: 1
-        position: right
-        color: '#666'  
-
-    # - title: 
-      #  content: desc2
-      align: left
-      background:
-        image:
-          filename: group_slides/s2.webp
-          filters:
-            brightness: 1
-        position: right
-        color: '#666'  
+      - title: 
+        align: left
+        background:
+          image:
+            filename: group_slides/s2.webp
+            filters:
+              brightness: 1
+            style: 'height: 400px; width: auto; object-fit: contain;'
+          position: right
+          color: '#666'  
 
   design:
-    # Slide height is automatic unless you force a specific height (e.g. '400px')
     slide_height: '415px'
-    slide_width: auto
-    # Automatically transition through slides?
+    is_fullscreen: false
     loop: true
-    # Duration of transition between slides (in ms)
     interval: 1000
-
 
 
 # Recent works
