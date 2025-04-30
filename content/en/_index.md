@@ -40,7 +40,8 @@ heroSlideBlock:
         image:
           filename: group_slides/news1.png
           filters:
-            brightness: 1
+          brightness: 1
+          style: 'height: 415px; width: auto; object-fit: contain;'
         position: right
         color: '#666'  
 
@@ -51,7 +52,8 @@ heroSlideBlock:
         image:
           filename: group_slides/s2.webp
           filters:
-            brightness: 1
+          brightness: 1
+          style: 'height: 415px; width: auto; object-fit: contain;'
         position: right
         color: '#666'  
 
@@ -59,7 +61,6 @@ heroSlideBlock:
     # Slide height is automatic unless you force a specific height (e.g. '400px')
     slide_height: '415px'
     slide_width: auto
-    is_fullscreen: false
     # Automatically transition through slides?
     loop: true
     # Duration of transition between slides (in ms)
