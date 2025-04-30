@@ -33,25 +33,25 @@ heroSlideBlock:
 
     slides:
 
-    - title: 
+    # - title: 
       #  content: desc1
       align: center
       background:
         image:
           filename: group_slides/news1.png
           filters:
-          brightness: 1
+            brightness: 1
         position: right
         color: '#666'  
 
-    - title: 
+    # - title: 
       #  content: desc2
       align: left
       background:
         image:
           filename: group_slides/s2.webp
           filters:
-          brightness: 1
+            brightness: 1
         position: right
         color: '#666'  
 
