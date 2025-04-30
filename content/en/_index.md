@@ -33,7 +33,7 @@ heroSlideBlock:
 
     slides:
 
-    # - title: desc-title1
+    - title: 
       #  content: desc1
       align: center
       background:
@@ -45,7 +45,7 @@ heroSlideBlock:
         position: right
         color: '#666'  
 
-    # - title: desc-title2
+    - title: 
       #  content: desc2
       align: left
       background:
