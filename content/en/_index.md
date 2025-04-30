@@ -33,22 +33,33 @@ heroSlideBlock:
   content:
     slides:
       - title: 
-        content: '<img src="group_slides/news1.png" style="height: 400px; width: auto;" />'
         align: center
         background:
-          color: '#fff'
+          image:
+            filename: group_slides/news1.png
+            filters:
+              brightness: 1
+            style: 'background-size: contain; background-repeat: no-repeat; background-position: center; height: 400px;'
+          position: right
+          color: '#666'  
 
       - title: 
-        content: '<img src="group_slides/s2.webp" style="height: 400px; width: auto;" />'
-        align: center
+        align: left
         background:
-          color: '#fff'
+          image:
+            filename: group_slides/s2.webp
+            filters:
+              brightness: 1
+            style: 'background-size: contain; background-repeat: no-repeat; background-position: center; height: 400px;'
+          position: right
+          color: '#666'  
 
   design:
     slide_height: '415px'
     is_fullscreen: false
     loop: true
     interval: 1000
+
 
 
 # Recent works
