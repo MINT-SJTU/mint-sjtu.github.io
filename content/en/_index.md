@@ -34,20 +34,20 @@ heroSlideBlock:
     slides:
       - title: 
         content: |
-          <img src="/assets/group_slides/news1.png" style="height: 100px; width: auto;" />
+          <img src="/group_slides/news1.png" style="height: 400px; width: auto;" />
         align: center
         background:
           color: '#fff'
 
       - title: 
         content: |
-          <img src="/assets/group_slides/s2.webp" style="height: 100px; width: auto;" />
+          <img src="/group_slides/s2.webp" style="height: 400px; width: auto;" />
         align: center
         background:
           color: '#fff'
 
   design:
-    slide_height: 'auto'
+    slide_height: '410px'
     is_fullscreen: false
     loop: true
     interval: 1000
