@@ -30,6 +30,7 @@ heroBlock:
 heroSlideBlock:
   block: slider
 
+
   content:
     slides:
       - title: 
