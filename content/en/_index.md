@@ -33,26 +33,16 @@ heroSlideBlock:
   content:
     slides:
       - title: 
+        content: '<img src="group_slides/news1.png" style="height: 400px; width: auto;" />'
         align: center
         background:
-          image:
-            filename: group_slides/news1.png
-            filters:
-              brightness: 1
-            style: 'height: 400px; width: auto; object-fit: contain;'
-          position: right
-          color: '#666'  
+          color: '#fff'
 
       - title: 
-        align: left
+        content: '<img src="group_slides/s2.webp" style="height: 400px; width: auto;" />'
+        align: center
         background:
-          image:
-            filename: group_slides/s2.webp
-            filters:
-              brightness: 1
-            style: 'height: 400px; width: auto; object-fit: contain;'
-          position: right
-          color: '#666'  
+          color: '#fff'
 
   design:
     slide_height: '415px'
