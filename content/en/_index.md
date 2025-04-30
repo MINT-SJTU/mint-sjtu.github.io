@@ -34,14 +34,14 @@ heroSlideBlock:
     slides:
       - title: 
         content: |
-          <img src="/group_slides/news1.png" style="height: 400px; width: auto;" />
+          <img src="/uploads/group_slides/news1.png" style="height: 400px; width: auto;" />
         align: center
         background:
           color: '#fff'
 
       - title: 
         content: |
-          <img src="/group_slides/s2.webp" style="height: 400px; width: auto;" />
+          <img src="/uploads/group_slides/s2.webp" style="height: 400px; width: auto;" />
         align: center
         background:
           color: '#fff'
