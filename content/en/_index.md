@@ -34,18 +34,18 @@ heroSlideBlock:
     slides:
       - title: 
         content: |
-           <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
-             <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
-           </div>
+             <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+             </div>
         align: center
         background:
           color: '#fff'
 
       - title: 
         content: |
-           <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
-             <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
-           </div>
+             <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+             </div>
         align: center
         background:
           color: '#fff'
@@ -55,6 +55,7 @@ heroSlideBlock:
     is_fullscreen: false
     loop: true
     interval: 1000
+
 
 
 
