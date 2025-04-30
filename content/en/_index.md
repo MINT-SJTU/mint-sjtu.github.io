@@ -58,7 +58,7 @@ heroSlideBlock:
   design:
     # Slide height is automatic unless you force a specific height (e.g. '400px')
     slide_height: '415px'
-    # slide_width: auto
+    slide_width: auto
     is_fullscreen: false
     # Automatically transition through slides?
     loop: true
