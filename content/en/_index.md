@@ -38,7 +38,7 @@ heroSlideBlock:
       align: center
       background:
         image:
-          filename: group_slides/s1.webp
+          filename: group_slides/news1.png
           filters:
             brightness: 1
         position: right
