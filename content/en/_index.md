@@ -41,7 +41,6 @@ heroSlideBlock:
           filename: group_slides/news1.png
           filters:
           brightness: 1
-          style: 'height: 415px; width: auto; object-fit: contain;'
         position: right
         color: '#666'  
 
@@ -53,7 +52,6 @@ heroSlideBlock:
           filename: group_slides/s2.webp
           filters:
           brightness: 1
-          style: 'height: 415px; width: auto; object-fit: contain;'
         position: right
         color: '#666'  
 
