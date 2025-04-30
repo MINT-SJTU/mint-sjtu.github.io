@@ -34,7 +34,7 @@ heroSlideBlock:
     slides:
 
     - title: desc-title1
-      content: desc1
+      # content: desc1
       align: center
       background:
         image:
