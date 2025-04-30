@@ -35,7 +35,7 @@ heroSlideBlock:
     slides:
       - title: 
         content: |
-             <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
                <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
              </div>
         align: center
@@ -44,7 +44,7 @@ heroSlideBlock:
 
       - title: 
         content: |
-             <div style="display: flex; justify-content: center; align-items: center; height: 410px;">
+             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
                <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
              </div>
         align: center
@@ -52,7 +52,7 @@ heroSlideBlock:
           color: '#fff'
 
   design:
-    slide_height: '410px'
+    slide_height: '415px'
     is_fullscreen: false
     loop: true
     interval: 1000
