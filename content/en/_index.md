@@ -64,6 +64,11 @@ heroSlideBlock:
 
 # Recent works
 recentWorksBlock:
+  - img: recent_works/robofac.png
+    desc: "We present RoboFAC with 9,440 erroneous manipulation trajectories and 78,623 QA pairs across 16 diverse tasks and 53 scenes, and a VLM model for robot failure analysis and correction."
+    title: 
+    link: https://github.com/MINT-SJTU
+    
   - img: recent_works/rw1.jpg
     desc: "STI-Bench: a benchmark designed to evaluate MLLMs’ spatial-temporal understanding through challenging tasks such as estimating and predicting the appearance, pose, displacement, and motion of objects."
     title: 
@@ -89,10 +94,10 @@ recentWorksBlock:
     title: 
     link: https://github.com/BAAI-DCAI/SegVol
 
-  - img: recent_works/rw6.jpg
-    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
-    title: 
-    link: https://emu.baai.ac.cn/about
+%  - img: recent_works/rw6.jpg
+%    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
+%    title: 
+%    link: https://emu.baai.ac.cn/about
 
 
 
