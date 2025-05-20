@@ -93,11 +93,11 @@ recentWorksBlock:
     desc: "[NeurIPS'24 Spotlight] We propose a 3D foundation segmentation model, named SegVol, supporting universal and interactive volumetric medical image segmentation, supporting the segmentation of over 200 anatomical categories."
     title: 
     link: https://github.com/BAAI-DCAI/SegVol
-%
-%  - img: recent_works/rw6.jpg
-%    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
-%    title: 
-%    link: https://emu.baai.ac.cn/about
+
+#  - img: recent_works/rw6.jpg
+#    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
+#    title: 
+#    link: https://emu.baai.ac.cn/about
 
 
 
