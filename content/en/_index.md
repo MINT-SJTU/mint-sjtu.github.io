@@ -21,8 +21,10 @@ heroBlock:
       I am working on Embodied AI, MLLM and Data-centric AI. Collaborations are welcome. Feel free to contact me. I am recruiting Ph.D./Master Students and Research Assistants/Interns. If you are interested, please read the Recruiting page (top-right).
       
       实验室研究方向：具身智能，多模态大模型，数据智能等。实验室常年招收硕博士生以及实习生，详情请阅读右上角招聘页面。
-  
 
+      News:
+
+      Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of several months.
 
 
 
