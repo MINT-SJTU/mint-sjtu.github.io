@@ -24,7 +24,7 @@ heroBlock:
 
       **News:**
 
-      - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of several months.
+      - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
 
 
 
