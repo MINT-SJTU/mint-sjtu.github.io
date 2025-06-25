@@ -46,6 +46,12 @@
   extra_desc1: ""
   link:
 
+- title: "BOOD: Boundary-based Out-Of-Distribution Data Generation"
+  abbr: "ICML 2025"
+  author: "Qilin Liao, Shuo Yang, Bo Zhao, Ping Luo, Hengshuang Zhao. Coming soon"
+  extra_desc1: ""
+  link:
+
 
 
 - title: "SpatialBot: Precise Spatial Understanding with Vision Language Models"
