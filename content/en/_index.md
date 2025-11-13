@@ -27,7 +27,7 @@ heroBlock:
       - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
 
 # # 图片轮播  
-# #heroSlideBlock:
+# heroSlideBlock:
 #  block: slider
 #
 #
@@ -51,11 +51,11 @@ heroBlock:
  #       background:
 #          color: '#fff'
 #
-  design:
-    slide_height: '415px'
-    is_fullscreen: false
-    loop: true
-    interval: 1000
+#  design:
+#    slide_height: '415px'
+#    is_fullscreen: false
+#    loop: true
+#    interval: 1000
 
 
 
