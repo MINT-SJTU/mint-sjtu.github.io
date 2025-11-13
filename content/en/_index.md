@@ -51,11 +51,11 @@ heroBlock:
  #       background:
 #          color: '#fff'
 #
-#  design:
-#    slide_height: '415px'
-#    is_fullscreen: false
-#    loop: true
-#    interval: 1000
+  design:
+    slide_height: '415px'
+    is_fullscreen: false
+    loop: true
+    interval: 1000
 
 
 
