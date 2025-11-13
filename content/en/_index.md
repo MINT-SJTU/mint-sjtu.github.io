@@ -26,40 +26,36 @@ heroBlock:
       - **Two** papers from our team got accepted as CVPR Oral! Only 96  CVPR Orals this year.
       - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
 
-
-<!--
-# 图片轮播  
-heroSlideBlock:
-  block: slider
-
-
-  content:
-    slides:
-      - title: 
-        content: |
-             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
-               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
-             </div>
-        align: center
-        background:
-          color: '#fff'
-
-      - title: 
-        content: |
-             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
-               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
-             </div>
-        align: center
-        background:
-          color: '#fff'
-
-  design:
-    slide_height: '415px'
-    is_fullscreen: false
-    loop: true
-    interval: 1000
--->
-
+# # 图片轮播  
+#heroSlideBlock:
+#  block: slider
+#
+#
+#  content:
+#    slides:
+#      - title: 
+#        content: |
+#             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
+#               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+#             </div>
+#        align: center
+#        background:
+#          color: '#fff'
+#
+  #    - title: 
+ #       content: |
+#             <div style="display: flex; justify-content: center; align-items: center; height: 415px;">
+#               <img src="/uploads/group_slides/news1.png" style="max-height: 100%; width: auto; display: block;" />
+ #            </div>
+ #       align: center
+ #       background:
+#          color: '#fff'
+#
+#  design:
+#    slide_height: '415px'
+#    is_fullscreen: false
+#    loop: true
+#    interval: 1000
 
 
 
