@@ -25,6 +25,7 @@ heroBlock:
       **News:**
       - **Two** papers from our team got accepted as CVPR Oral! Only 96  CVPR Orals this year.
       - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
+      - Welcome [Dr. Yuqian Fu](https://yuqianfu.com/) to our lab for a visit of months.
 
 
 
