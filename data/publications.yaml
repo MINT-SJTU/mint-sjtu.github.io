@@ -1,3 +1,86 @@
+- title: "VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference."
+  abbr: "arXiv 2026"
+  author: "Ziyan Liu, Yeqiu Chen, Hongyi Cai, Tao Lin, Shuo Yang, Zheng Liu, Bo Zhao"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://arxiv.org/pdf/2511.16449"
+
+- title: "Evo-1: Lightweight Vision-Language-Action Model with Preserved Semantic Alignment."
+  abbr: "CVPR 2026"
+  author: "Tao Lin, Yilei Zhong, Yuxin Du, Jingjing Zhang, Jiting Liu, Yinxinyu Chen, Encheng Gu, Ziyan Liu, Hongyi Cai, Yanwen Zou, Lixing Zou, Zhaoye Zhou, Gen Li, Bo Zhao"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://arxiv.org/pdf/2511.04555"
+    - text: "Code"
+      url: "https://github.com/MINT-SJTU/Evo-1"
+
+- title: "Understanding Data Influence with Differential Approximation."
+  abbr: "TPAMI 2026"
+  author: ""
+  extra_desc1: "Coming Soon"
+  link:
+
+- title: "Emu3: Multimodal learning with next-token prediction for large multimodal models."
+  abbr: "Nature 2026"
+  author: "Xinlong Wang, et al"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://www.nature.com/articles/s41586-025-10041-x"
+    - text: "Code"
+      url: "https://github.com/baaivision/Emu"
+
+- title: "Mask2IV: Interaction-Centric Video Generation via Mask Trajectories."
+  abbr: "AAAI 2026"
+  author: "Gen Li, Bo Zhao, Jianfei Yang, Laura Sevilla-Lara"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://arxiv.org/pdf/2510.03135"
+
+
+- title: "Active Dataset Distillation via Dual-Space Informative Matching."
+  abbr: "TIP 2026"
+  author: ""
+  extra_desc1: "Coming Soon"
+  link:
+
+- title: "MomentSeeker: A Task-Oriented Benchmark For Long-Video Moment Retrieval."
+  abbr: "NeurIPS 2025 D&B Track"
+  author: "Huaying Yuan, Nijian, Zheng Liu, Yueze Wang, Junjie Zhou, Zhengyang Liang, Bo Zhao, Zhao Cao, Ji-Rong Wen, Zhicheng Dou"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://arxiv.org/pdf/2502.12558"
+
+- title: "UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation."
+  abbr: "NeurIPS 2025"
+  author: "Jiyu Guo, Shuo Yang, Yiming Huang, Yancheng Long, Xiaobo Xia, Xiu Su, Bo Zhao, Zeke Xie, Liqiang Nie."
+  extra_desc1: "Coming Soon"
+  link:
+
+- title: "STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?"
+  abbr: "ICCV 2025"
+  author: "Yun Li, Yiming Zhang, Tao Lin, XiangRui Liu, Wenxiao Cai, Zheng Liu, Bo Zhao"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Li_STI-Bench_Are_MLLMs_Ready_for_Precise_Spatial-Temporal_World_Understanding_ICCV_2025_paper.pdf"
+    - text: "Code"
+      url: "https://github.com/MINT-SJTU/STI-Bench"
+
+- title: "MMCR: Benchmarking Cross-Source Reasoning in Scientific Papers."
+  abbr: "ICCV 2025"
+  author: " Yang Tian, Zheng Lu, Mingqi Gao, Zheng Liu, Bo Zhao"
+  extra_desc1: ""
+  link:
+    - text: "PDF"
+      url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Tian_MMCR_Benchmarking_Cross-Source_Reasoning_in_Scientific_Papers_ICCV_2025_paper.pdf"
+    - text: "Code"
+      url: "https://github.com/yangtian6781/MMCR"
+
 - title: "Video-XL: Towards Vision Language Models For Extra-Long Video Understanding."
   abbr: "CVPR 2025 <span>Oral</span> (Top 7‰)"
   author: "Yan Shu, Zheng Liu, Peitian Zhang, Minghao Qin, Junjie Zhou, Zhengyang Liang, Tiejun Huang, Bo Zhao"
