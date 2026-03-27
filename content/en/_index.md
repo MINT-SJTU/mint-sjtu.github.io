@@ -24,14 +24,20 @@ heroBlock:
 
       **News:**
       - **Two** papers from our team got accepted as CVPR Oral! Only 96  CVPR Orals this year.
-      - Welcome [Dr. Yuqian Fu](https://yuqianfu.com/) to our lab for a visit of months.
-      - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
+      - Emu3 has been published in **Nature**.
+    # - Welcome [Dr. Yuqian Fu](https://yuqianfu.com/) to our lab for a visit of months.
+    # - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
 
 
 
 
 # Recent works
 recentWorksBlock:
+  - img: recent_works/Evo1.png
+    desc: "We present Evo-1, a lightweight VLA model that reduces computation and improves deployment efficiency, while maintaining strong performance without pretraining on robot data. "
+    title: 
+    link: https://github.com/MINT-SJTU
+
   - img: recent_works/robofac.png
     desc: "We present RoboFAC with 9,440 erroneous manipulation trajectories and 78,623 QA pairs across 16 diverse tasks and 53 scenes, and a VLM model for robot failure analysis and correction."
     title: 
@@ -57,10 +63,10 @@ recentWorksBlock:
     title: 
     link: https://jiyao06.github.io/Omni6DPose/
 
-  - img: recent_works/rw5.jpg
-    desc: "[NeurIPS'24 Spotlight] We propose a 3D foundation segmentation model, named SegVol, supporting universal and interactive volumetric medical image segmentation, supporting the segmentation of over 200 anatomical categories."
-    title: 
-    link: https://github.com/BAAI-DCAI/SegVol
+  # - img: recent_works/rw5.jpg
+  #   desc: "[NeurIPS'24 Spotlight] We propose a 3D foundation segmentation model, named SegVol, supporting universal and interactive volumetric medical image segmentation, supporting the segmentation of over 200 anatomical categories."
+  #   title: 
+  #   link: https://github.com/BAAI-DCAI/SegVol
 
 #  - img: recent_works/rw6.jpg
 #    desc: "We introduce Emu3, a new suite of state-of-the-art multimodal models trained solely with next-token prediction. By tokenizing images, text, and videos into a discrete space, we train a single transformer from scratch on a mixture of multimodal sequences."
