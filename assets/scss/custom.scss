@@ -97,11 +97,17 @@
 
 
 html, body {
-
   font-family: montserrat,PingFang SC,Microsoft YaHei,微软雅黑,STXihei,华文细黑,sans-serif;
   font-size: 16px;
   color: #000;
+}
 
+/* 让主内容容器宽度为75%，居中 */
+.container {
+  width: 75vw;
+  max-width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -254,8 +260,9 @@ html, body {
       grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
   }
 
+  /* 移除6列，强制5列 */
   .lg\:grid-cols-6 {
-      grid-template-columns: repeat(6, minmax(0, 1fr)) !important;
+      grid-template-columns: repeat(5, minmax(0, 1fr)) !important;
   }
 }
 
