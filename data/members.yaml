@@ -1,16 +1,9 @@
-- name: Bo Zhao
-  role: Associate Professor
-  image: "members/bo-zhao.jpg"
-  period:
-  group:
-
-
-
 - name: Hongming Fu
   role: PhD Student
   image: "members/tmp-member.png"
   period: "2025-"
   group:
+  link: ""
 
 
 - name: Yilei Lyu
@@ -18,6 +11,7 @@
   image: "members/tmp-member.png"
   period: "2024-"
   group:
+  link: ""
 
 
 - name: Yang Tian
@@ -25,6 +19,7 @@
   image: "members/tmp-member.png"
   period: "2025-"
   group:
+  link: ""
 
 
 - name: Zhengpeng Shi
@@ -32,4 +27,5 @@
   image: "members/tmp-member.png"
   period: "2025-"
   group:
+  link: ""
 
