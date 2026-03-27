@@ -23,8 +23,8 @@ heroBlock:
       实验室研究方向：具身智能，多模态大模型，数据智能等。实验室常年招收硕博士生以及实习生，详情请阅读右上角招聘页面。
 
       **News:**
-      - **Two** papers from our team got accepted as CVPR Oral! Only 96  CVPR Orals this year.
       - Emu3 has been published in **Nature**.
+      - **Two** papers from our team got accepted as CVPR Oral! Only 96  CVPR Orals this year.
     # - Welcome [Dr. Yuqian Fu](https://yuqianfu.com/) to our lab for a visit of months.
     # - Welcome [Dr. Gen Li](https://reagan1311.github.io/) to our lab for a visit of months.
 
