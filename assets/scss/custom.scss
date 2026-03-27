@@ -165,35 +165,40 @@ html, body {
 
 }
 
-#section-members {
 
+#section-members {
   .members-layout {
-    gap: 20px;
+    gap: 60px;
     display: flex;
     align-items: center;
+    justify-content: center; /* 横向居中 */
   }
 
   .members-professors {
-    flex: 0 0 180px;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .members-students {
     flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .members-students .grid {
-    column-gap: 20px;
-    row-gap: 20px;
-    grid-template-columns: repeat(4, 180px);
-    justify-content: flex-start;
-    width: calc(4 * 180px + 3 * 20px);
+    grid-template-columns: repeat(5, 180px);
+    justify-content: center; /* 居中所有卡片 */
+    gap: 2.5rem; /* 自适应间隙，可根据需要调整 */
+    width: 100%; /* 让grid自适应父容器宽度 */
   }
 
   .card {
     width: 180px;
     box-sizing: border-box;
   }
-
 
   .card-body  {
     padding: 0;
@@ -214,11 +219,14 @@ html, body {
   }
 
   .professor-photo {
-    height: auto;
     width: auto;
+    height: auto;
+    max-width: 180px;
+    max-height: 180px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
   }
-
-
 }
 
 @media (max-width: 780px) {
