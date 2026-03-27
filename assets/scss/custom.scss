@@ -169,8 +169,8 @@ html, body {
 
   .members-layout {
     display: flex;
-    gap: 1.5rem;
-    align-items: flex-start;
+    gap: 5rem;
+    align-items: center;
   }
 
   .members-professors {
@@ -182,10 +182,11 @@ html, body {
   }
 
   .members-students .grid {
-    gap: 1.5rem;
-    grid-template-columns: repeat(5, 180px);
+    column-gap: 5rem;
+    row-gap: 1.5rem;
+    grid-template-columns: repeat(4, 180px);
     justify-content: flex-start;
-    width: calc(900px + 6rem);
+    width: calc(4 * 180px + 3 * 5rem);
   }
 
   .card {
