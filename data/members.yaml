@@ -1,9 +1,41 @@
+- name: Yi Li
+  role: Research Administrator
+  image: "members/LiYi.jpg"
+  period: "2025-"
+  group:
+  link: ""
+
+
 - name: Hongming Fu
   role: PhD Student
   image: "members/tmp-member.png"
   period: "2025-"
   group:
   link: "https://frank-f2022.github.io/"
+
+
+- name: Tao Lin
+  role: PhD Student
+  image: "members/tmp-member.png"
+  period: "2026-"
+  group:
+  link: ""
+
+
+- name: Yuxin Du
+  role: PhD Student
+  image: "members/tmp-member.png"
+  period: "2026-"
+  group:
+  link: "https://yuxin-du-lab.github.io/"
+
+
+- name: Zhimu Zhou
+  role: PhD Student
+  image: "members/tmp-member.png"
+  period: "2026-"
+  group:
+  link: "https://pikonguwu.github.io/academicpages.github.io/"
 
 
 - name: Yilei Lyu
@@ -19,13 +51,20 @@
   image: "members/tmp-member.png"
   period: "2025-"
   group:
-  link: ""
+  link: "https://yangtian6781.github.io/"
 
 
 - name: Zhengpeng Shi
-  role: Master  Student
+  role: Master Student
   image: "members/tmp-member.png"
   period: "2025-"
+  group:
+  link: ""
+
+- name: Bing Cheng
+  role: Master Student
+  image: "members/tmp-member.png"
+  period: "2026-"
   group:
   link: ""
 
