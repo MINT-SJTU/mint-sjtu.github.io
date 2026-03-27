@@ -34,7 +34,7 @@ heroBlock:
 # Recent works
 recentWorksBlock:
   - img: recent_works/Evo1.png
-    desc: "We present Evo-1, a lightweight VLA model that reduces computation and improves deployment efficiency while maintaining strong performance without pretraining on robot data, supported by a novel two-stage training paradigm that progressively aligns action with perception to preserve the representations of the VLM."
+    desc: "we present Evo-1, a lightweight VLA model that reduces computation and improves deployment efficiency, while maintaining strong performance without pretraining on robot data."
     title: 
     link: https://github.com/MINT-SJTU
 
