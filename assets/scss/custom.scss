@@ -167,6 +167,20 @@ html, body {
 
 #section-members {
 
+  .members-layout {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+  }
+
+  .members-professors {
+    flex: 0 0 180px;
+  }
+
+  .members-students {
+    flex: 1 1 auto;
+  }
+
   .card {
     width: 180px;
     box-sizing: border-box;
@@ -197,6 +211,19 @@ html, body {
   }
 
 
+}
+
+@media (max-width: 780px) {
+  #section-members {
+    .members-layout {
+      flex-direction: column;
+    }
+
+    .members-professors,
+    .members-students {
+      flex: 1 1 auto;
+    }
+  }
 }
 
 

@@ -102,45 +102,53 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
 <section id="section-members" class="home-section ">
   <div class="container">
     <div class="section-c-title" >Members</div>
-    <div class="grid grid-cols-1 gap-x-6 gap-y-16 lg:grid-cols-6">
-      {{ range .Site.Data.professors }}
+    <div class="members-layout">
+      <div class="members-column members-professors">
+        <div class="grid grid-cols-1 gap-x-6 gap-y-16">
+          {{ range .Site.Data.professors }}
 
-        {{- $image2 := resources.Get (path.Join "media" .image) -}}
+            {{- $image2 := resources.Get (path.Join "media" .image) -}}
 
-        <div class="">
+            <div class="">
 
-          <div class="card"  >
-            <img class="professor-photo" src="{{ $image2.RelPermalink }}" alt="">
-            <div class="card-body">
-              <!-- <h5 class="card-title">title</h5> -->
-              <div class="card-text"><a href="{{ .link }}">{{ .name | safeHTML }}</a></div>
-              <div class="card-text m-role">{{ .role | safeHTML }}</div>
-              {{if .period}}<div class="card-text">({{ .period | safeHTML }})</div>{{ end }}
-              <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+              <div class="card"  >
+                <img class="professor-photo" src="{{ $image2.RelPermalink }}" alt="">
+                <div class="card-body">
+                  <!-- <h5 class="card-title">title</h5> -->
+                  <div class="card-text"><a href="{{ .link }}">{{ .name | safeHTML }}</a></div>
+                  <div class="card-text m-role">{{ .role | safeHTML }}</div>
+                  {{if .period}}<div class="card-text">({{ .period | safeHTML }})</div>{{ end }}
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                </div>
+              </div>
+
             </div>
-          </div>
-
+          {{ end }}
         </div>
-      {{ end }}
-      {{ range .Site.Data.members }}
+      </div>
+      <div class="members-column members-students">
+        <div class="grid grid-cols-1 gap-x-6 gap-y-16 lg:grid-cols-6">
+          {{ range .Site.Data.members }}
 
-        {{- $image2 := resources.Get (path.Join "media" .image) -}}
+            {{- $image2 := resources.Get (path.Join "media" .image) -}}
 
-        <div class="">
+            <div class="">
 
-          <div class="card"  >
-            <img class="member-photo" src="{{ $image2.RelPermalink }}" alt="">
-            <div class="card-body">
-              <!-- <h5 class="card-title">title</h5> -->
-              <div class="card-text"><a href="{{ .link }}">{{ .name | safeHTML }}</a></div>
-              <div class="card-text m-role">{{ .role | safeHTML }}</div>
-              {{if .period}}<div class="card-text">({{ .period | safeHTML }})</div>{{ end }}
-              <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+              <div class="card"  >
+                <img class="member-photo" src="{{ $image2.RelPermalink }}" alt="">
+                <div class="card-body">
+                  <!-- <h5 class="card-title">title</h5> -->
+                  <div class="card-text"><a href="{{ .link }}">{{ .name | safeHTML }}</a></div>
+                  <div class="card-text m-role">{{ .role | safeHTML }}</div>
+                  {{if .period}}<div class="card-text">({{ .period | safeHTML }})</div>{{ end }}
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                </div>
+              </div>
+
             </div>
-          </div>
-
+          {{ end }}
         </div>
-      {{ end }}
+      </div>
 
     </div>
   </div>
