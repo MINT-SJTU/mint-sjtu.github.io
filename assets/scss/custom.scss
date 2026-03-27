@@ -167,6 +167,11 @@ html, body {
 
 #section-members {
 
+  .card {
+    width: 180px;
+    box-sizing: border-box;
+  }
+
 
   .card-body  {
     padding: 0;
