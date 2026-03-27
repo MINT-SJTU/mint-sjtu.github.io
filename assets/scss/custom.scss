@@ -178,14 +178,14 @@ html, body {
   }
 
   .members-students {
-    flex: 1 1 auto;
+    flex: 0 0 auto;
   }
 
   .members-students .grid {
-    column-gap: 1.5rem;
-    row-gap: 4rem;
+    gap: 1.5rem;
     grid-template-columns: repeat(5, 180px);
     justify-content: flex-start;
+    width: calc(900px + 6rem);
   }
 
   .card {
