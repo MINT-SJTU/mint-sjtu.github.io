@@ -181,6 +181,13 @@ html, body {
     flex: 1 1 auto;
   }
 
+  .members-students .grid {
+    column-gap: 1.5rem;
+    row-gap: 4rem;
+    grid-template-columns: repeat(5, 180px);
+    justify-content: flex-start;
+  }
+
   .card {
     width: 180px;
     box-sizing: border-box;
