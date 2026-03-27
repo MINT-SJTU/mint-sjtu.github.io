@@ -144,7 +144,13 @@ https://blog.csdn.net/chenmo2001/article/details/117674446
                 <img class="member-photo" src="{{ $image2.RelPermalink }}" alt="">
                 <div class="card-body">
                   <!-- <h5 class="card-title">title</h5> -->
-                  <div class="card-text"><a href="{{ .link }}">{{ .name | safeHTML }}</a></div>
+                  <div class="card-text">
+                    {{ if .link }}
+                      <a href="{{ .link }}">{{ .name | safeHTML }}</a>
+                    {{ else }}
+                      {{ .name | safeHTML }}
+                    {{ end }}
+                  </div>
                   <div class="card-text m-role">{{ .role | safeHTML }}</div>
                   {{if .period}}<div class="card-text">({{ .period | safeHTML }})</div>{{ end }}
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
