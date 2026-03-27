@@ -34,7 +34,7 @@ heroBlock:
 # Recent works
 recentWorksBlock:
   - img: recent_works/Evo1.png
-    desc: "we present Evo-1, a lightweight VLA model that reduces computation and improves deployment efficiency, while maintaining strong performance without pretraining on robot data."
+    desc: "[CVPR'26] we present Evo-1, a lightweight VLA model that reduces computation and improves deployment efficiency, while maintaining strong performance without pretraining on robot data."
     title: 
     link: https://github.com/MINT-SJTU
 
