@@ -3,7 +3,6 @@
   image: "members/LiYi.jpg"
   period: "2025-"
   group:
-  link: ""
 
 
 - name: Hongming Fu
@@ -19,7 +18,6 @@
   image: "members/tmp-member.png"
   period: "2026-"
   group:
-  link: ""
 
 
 - name: Yuxin Du
@@ -43,7 +41,6 @@
   image: "members/tmp-member.png"
   period: "2024-"
   group:
-  link: ""
 
 
 - name: Yang Tian
@@ -59,12 +56,10 @@
   image: "members/tmp-member.png"
   period: "2025-"
   group:
-  link: ""
 
 - name: Bing Cheng
   role: Master Student
   image: "members/tmp-member.png"
   period: "2026-"
   group:
-  link: ""
 
