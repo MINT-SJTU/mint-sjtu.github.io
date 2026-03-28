@@ -1,11 +1,3 @@
-- name: Yi Li
-  role: Research Assistant
-  image: "members/LiYi.jpg"
-  period: "2025-"
-  group:
-  link: ""
-
-
 - name: Hongming Fu
   role: PhD Student
   image: "members/tmp-member.png"
@@ -67,4 +59,12 @@
   period: "2026-"
   group:
   link: ""
+
+- name: Yi Li
+  role: Research Assistant
+  image: "members/LiYi.jpg"
+  period: "2025-"
+  group:
+  link: ""
+
 
