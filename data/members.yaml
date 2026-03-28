@@ -30,6 +30,15 @@
   link: "https://pikonguwu.github.io/academicpages.github.io/"
 
 
+
+- name: Yi Li
+  role: Research Assistant
+  image: "members/LiYi.jpg"
+  period: "2025-"
+  group:
+  link: ""
+  
+
 - name: Yilei Lyu
   role: Master Student
   image: "members/tmp-member.png"
@@ -60,11 +69,5 @@
   group:
   link: ""
 
-- name: Yi Li
-  role: Research Assistant
-  image: "members/LiYi.jpg"
-  period: "2025-"
-  group:
-  link: ""
 
 
