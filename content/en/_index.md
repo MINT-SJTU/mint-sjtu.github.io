@@ -16,7 +16,7 @@ heroBlock:
     text: |
       Bo Zhao is an Associate Professor (Tenure Track) at School of Artificial Intelligence, Shanghai Jiao Tong University. Before, he was with BAAI as Principal Investigator, leading DCAI group. He received Ph.D. from The University of Edinburgh and M.Eng. from Peking University. His research interests include Embodied AI, Multimodal LLM and Data-centric AI. He received ICML 2022 Outstanding Paper Award. He was the only nominee of The University of Edinburgh for Informatics-Europe Best Dissertation Award 2023. He received NSFC fundings on MLLMs and Dataset Condensation. He served as an Area Chair for NeurIPS'25/24 and BMVC'24, and organizers for DD workshops at CVPR'24 and ECCV'24. 
 
-      赵波是上海交通大学人工智能学院长聘教轨副教授、博导，入选国家级青年人才项目。曾担任智源研究院（BAAI）数据智能研究中心负责人、首席研究员。曾获得爱丁堡大学博士学位和北京大学硕士学位。研究方向包括具身智能、多模态大模型和数据智能（DCAI）等。曾获 ICML 2022 杰出论文奖，并作为爱丁堡大学唯一提名人入围2023年欧洲信息学最佳博士论文奖候选名单。主持多项国自然基金委科研项目。担任 NeurIPS'25/24和BMVC'24 领域主席，并于 CVPR'24 和 ECCV'24 组织数据集蒸馏研讨会。
+      赵波是上海交通大学人工智能学院长聘教轨副教授、博导，入选国家级青年人才项目。曾担任智源研究院（BAAI）数据智能研究中心负责人、首席研究员。曾获得爱丁堡大学博士学位和北京大学硕士学位。研究方向包括具身智能、多模态大模型和数据智能（DCAI）等。曾获 ICML 2022 杰出论文奖，并作为爱丁堡大学唯一提名人入围2023年欧洲信息学最佳博士论文奖候选名单。主持多项国自然基金委科研项目。担任 NeurIPS'25/24和BMVC'24 领域主席，并于 ICCV'25, CVPR'24 和 ECCV'24 组织 Workshops.
 
       I am working on Embodied AI, MLLM and Data-centric AI. Collaborations are welcome. Feel free to contact me. I am recruiting Ph.D./Master Students and Research Assistants/Interns. If you are interested, please read the Recruiting page (top-right).
       
