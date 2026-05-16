@@ -16,7 +16,7 @@ heroBlock:
     text: |
       Bo Zhao is an Associate Professor at School of Artificial Intelligence, Shanghai Jiao Tong University. He is also a Visiting Scholar of Embodied AI at Alibaba Group. Before, he was with BAAI as Principal Investigator, leading DCAI group. He received Ph.D. from The University of Edinburgh and M.Eng. from Peking University. His research interests include Embodied AI, Multimodal LLM and Data-centric AI. He has published dozens of papers in top-tier venues including CVPR, ICLR, TPAMI, and Nature, with 7 papers selected for Oral or Spotlight presentations. He received ICML 2022 Outstanding Paper Award. He received NSFC fundings on MLLMs and DCAI. He served as an Area Chair for NeurIPS'25/24 and BMVC'24, and organizers for workshops at ICCV'25, CVPR'24 and ECCV'24. 
 
-      赵波是上海交通大学人工智能学院副教授、博导、国家级青年人才、阿里巴巴具身智能访问学者。曾担任智源研究院（BAAI）数据智能研究中心负责人、首席研究员。曾获得爱丁堡大学博士学位和北京大学硕士学位。研究方向包括具身智能、多模态大模型和数据智能（DCAI）等。已发表包括 CVPR, ICLR, TPAMI, Nature，等数十篇论文，其中7篇 Oral/Spotlight. 曾获 ICML 2022 杰出论文奖。主持多项国自然基金委科研项目。担任 NeurIPS'25/24和BMVC'24 领域主席，并于 ICCV'25, CVPR'24 和 ECCV'24 组织 Workshops.
+      赵波是上海交通大学人工智能学院副教授、博导、国家级青年人才、阿里巴巴具身智能访问学者。曾担任智源研究院（BAAI）数据智能研究中心负责人、首席研究员。曾获得爱丁堡大学博士学位和北京大学硕士学位。研究方向包括具身智能、多模态大模型和数据智能（DCAI）等。已发表包括 CVPR, ICLR, TPAMI, Nature, 等数十篇论文，其中7篇 Oral/Spotlight. 曾获 ICML 2022 杰出论文奖。主持多项国自然基金委科研项目。担任 NeurIPS'25/24和BMVC'24 领域主席，并于 ICCV'25, CVPR'24 和 ECCV'24 组织 Workshops.
 
       I am working on Embodied AI, MLLM and Data-centric AI. Collaborations are welcome. Feel free to contact me. I am recruiting Ph.D./Master Students and Research Assistants/Interns. If you are interested, please read the Recruiting page (top-right).
       
