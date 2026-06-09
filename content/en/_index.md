@@ -33,7 +33,7 @@ heroBlock:
 
 # Recent works
 recentWorksBlock:
-  - img: recent_works/evo_rl_dataset_cards.png
+  - img: recent_works/realworld_rl_dataset_frame0.png
     desc: "We release RealWorld-RL Dataset, a real-world reinforcement learning dataset for embodied policy iteration, with 1000+ hours of robot data across 4+ robot families, 9+ scenario domains, 30+ task templates, and 3 data types."
     title: RealWorld-RL Dataset
     link: https://huggingface.co/datasets/MINT-SJTU/Evo-RL-Dataset
